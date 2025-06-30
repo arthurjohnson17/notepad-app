@@ -1506,3 +1506,4 @@ notepad-app-server/node_modules/wrappy/LICENSE
 notepad-app-server/node_modules/wrappy/package.json
 notepad-app-server/node_modules/wrappy/README.md
 notepad-app-server/node_modules/wrappy/wrappy.js
+notepad-app-server/.env
